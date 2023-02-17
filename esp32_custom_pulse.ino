@@ -5,7 +5,7 @@ const int PushButton1 = 22; //pushbutton 1
 const int PushButton2 = 23; // pushbutton 2
 
 const int b=100; // intialize *b* value from calculation 
-const int d=2000; // intialize *d* value from calculation 
+const int d=4000; // intialize *d* value from calculation 
 
 void setup() // This Setup function is used to initialize everything 
 {  

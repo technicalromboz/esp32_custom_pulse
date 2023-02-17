@@ -1,2 +1,5 @@
 # esp32_custom_pulse
-Generate two pulse using Esp 32
+
+Two files inclueded here
+1. esp32_custom_pulse.ino = Arduino code 
+2.
